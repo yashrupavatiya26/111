@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+p{
+    font-size: 50px;
+    color: coral;
+    font-family: cursive;
+     margin: 100px;
+     text-align: center;
+}
+img{
+
+    background-size: cover;
+
+}
